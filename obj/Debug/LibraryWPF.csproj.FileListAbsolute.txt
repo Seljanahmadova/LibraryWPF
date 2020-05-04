@@ -19,3 +19,4 @@ C:\Users\Seljan\Desktop\winform\LibraryWPF\bin\Debug\MaterialDesignColors.pdb
 C:\Users\Seljan\Desktop\winform\LibraryWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\Users\Seljan\Desktop\winform\LibraryWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\Seljan\Desktop\winform\LibraryWPF\obj\Debug\LibraryWPF.csproj.CopyComplete
+C:\Users\Seljan\Desktop\winform\LibraryWPF\obj\Debug\App.baml

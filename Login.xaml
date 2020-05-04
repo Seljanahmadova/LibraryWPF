@@ -6,4 +6,14 @@
         xmlns:local="clr-namespace:LibraryWPF"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="LibraryWPF.Login"
         mc:Ignorable="d"
-        Title="Login" Height="265.2" Width="379.2"/>
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}" Height="349.6" Width="376">
+    <Grid>
+        
+    </Grid>
+</Window>
